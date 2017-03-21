@@ -1,10 +1,13 @@
 My CV
 ======
 
-Timothy Melano, PhD
+## Timothy Melano, PhD
 
-Current Position:
+## Current Position:
 Research Staff Member
+
 Brain Inspired Computing
+
 Almaden Research Center
+
 IBM Research
